@@ -1,0 +1,5 @@
+/* Declaring custom properties */
+* {
+  box-sizing: border-box;
+  border: thin solid red;
+}
